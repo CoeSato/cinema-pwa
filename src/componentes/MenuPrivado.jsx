@@ -14,7 +14,7 @@ function MenuPrivado() {
             <Navbar expand="lg" className="bg-body-tertiary">
                 <Container>
                     <NavLink className="navbar-brand" exact="true"
-                        to="/privado">eShop</NavLink>
+                        to="/privado">Cinema</NavLink>
                     <Navbar.Toggle aria-controls="basic-navbar-nav" />
                     <Navbar.Collapse id="basic-navbar-nav">
                         <Nav className="me-auto">
