@@ -44,7 +44,7 @@ function Formulario() {
                     maxCaracteres={5} />
             </Col>
             <Col xs={12} md={12}>
-                <CampoSelect value={objeto.diretor}
+                <CampoSelect value={objeto.diretor_id}
                     id="txtDiretor" name="diretor" label="Diretor"
                     onchange={handleChange}
                     msginvalido="Informe o diretor"
